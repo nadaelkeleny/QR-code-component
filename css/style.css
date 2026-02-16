@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.card{
+    width: 300px;
+    padding: 16px;
+    border-radius: 15px;
+    text-align: center
+}
+.card img{
+        width: 100%;
+    border-radius: 10px;
+}
+.bio{
+    font-size: 18px;
+    margin: 20px 0 10px;
+}
+p{
+       
+    font-size: 14px;
+    color: gray;
+}
